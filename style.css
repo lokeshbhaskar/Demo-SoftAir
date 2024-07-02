@@ -20,7 +20,7 @@ body {
 
 .container-1 img {
     width: 45%;
-    margin-left: 50%;
+    margin-left: 40%;
     margin-top: 20px;
 }
 
@@ -129,7 +129,6 @@ body {
     width: 450px;
     margin-left: 45px;
     border-radius: 10px;
-    /* background-color: #c7d6fe;    */
     box-shadow: 0 15px 15px rgb(0,0,0,0.2);
 }
 .box-2{
