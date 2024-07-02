@@ -1,5 +1,7 @@
 @media  screen and (max-width:750px){
-      
+      .container-1{
+        width: 100%;
+      }
     .box-1 {
         height: 110px;
         width: 285px;        
