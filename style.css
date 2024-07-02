@@ -11,6 +11,8 @@ body {
     justify-content: center;
 }
 
+
+
 .container-1 {
     margin-top: 5px;
     width: 45%;
@@ -220,3 +222,9 @@ body {
         cursor: pointer;
 }
  
+
+@media screen and (max-width: 700px) {
+    .container-1{
+        width: 100vw;
+    }
+}
